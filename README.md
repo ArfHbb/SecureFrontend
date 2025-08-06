@@ -68,10 +68,20 @@ npm run build
 
 ---
 
+
 ## 🛡️ Catatan Workshop
 
 - Aplikasi ini dibuat **hanya untuk tujuan pembelajaran** dan **tidak boleh** digunakan di lingkungan produksi.
 - Dalam workshop, peserta akan **menganalisis, menemukan, dan memperbaiki kelemahan** yang ada pada aplikasi ini.
+
+---
+
+## 📝 Laporan Bug Hunt & Bug Fixing
+
+- Laporan hasil bug hunt dan perbaikan keamanan dapat diakses di:
+  [Google Docs: Bug Hunt & Bug Fixing SecureFrontend](https://docs.google.com/document/d/1smOD9WJgGQdrftgD0Y5G0JdcssXdGRhA/edit)
+
+- Dokumen ini berisi daftar temuan bug, penjelasan, dan solusi yang diterapkan untuk membuat sistem lebih secure.
 
 ---
 
