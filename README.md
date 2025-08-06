@@ -1,4 +1,3 @@
-
 # 🚀 SecureFrontend — Workshop Secure Coding Frontend
 
 <p align="center">
@@ -98,12 +97,12 @@ npm run build
 
 ---
 
-## � Materi Pelatihan (PDF)
+## 📚 Materi Pelatihan (PDF)
 
 - [`files/BSSN Workshop - FE Secure Coding.pdf`](./files/BSSN%20Workshop%20-%20FE%20Secure%20Coding.pdf)
 - [`files/BSSN Workshop - Secure By Design - Day 1.pdf`](./files/BSSN%20Workshop%20-%20Secure%20By%20Design%20-%20Day%201.pdf)
 - [`files/BSSN Workshop - Secure By Design - Day 2.pdf`](./files/BSSN%20Workshop%20-%20Secure%20By%20Design%20-%20Day%202.pdf)
 
-## �📄 Lisensi
+## 📄 Lisensi
 
 Hak cipta © 2025 — Digunakan hanya untuk kepentingan workshop internal.
