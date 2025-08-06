@@ -1,35 +1,66 @@
-# Frontend - Workshop Secure Coding Frontend
 
-Frontend aplikasi ini dibuat dengan **Vue 3 + Vite + TailwindCSS** dan sengaja tidak dibuat sempurna agar dapat
-digunakan sebagai bahan latihan pada workshop secure coding frontend.
+# 🚀 SecureFrontend — Workshop Secure Coding Frontend
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" alt="Logo Imigrasi" width="80" />
+</p>
+
+<p align="center">
+  <b>Frontend aplikasi imigrasi untuk latihan secure coding.</b><br>
+  <i>Dibuat dengan Vue 3, Vite, dan TailwindCSS.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ArfHbb/SecureFrontend"><img src="https://img.shields.io/github/license/ArfHbb/SecureFrontend?style=flat-square" alt="License"></a>
+  <img src="https://img.shields.io/badge/vue-3.x-brightgreen?style=flat-square" alt="Vue 3">
+  <img src="https://img.shields.io/badge/vite-4.x-blue?style=flat-square" alt="Vite">
+  <img src="https://img.shields.io/badge/tailwindcss-3.x-blueviolet?style=flat-square" alt="TailwindCSS">
+</p>
 
 ---
 
-## **1. Prasyarat**
+## ✨ Fitur Utama
 
-* Node.js >= 18
-* NPM >= 8
+- Login Petugas Imigrasi (dengan proteksi brute force dan session timeout)
+- Dashboard verifikasi kedatangan
+- Detail kedatangan, approve/reject
+- Restriksi device (hanya desktop/iPad)
+- UI modern dan responsif
+- Error & loading handled dengan SweetAlert2
 
 ---
 
-## **2. Setup Project**
+## 📦 Prasyarat
 
-### **Install Dependencies**
+- Node.js >= 18
+- NPM >= 8
+
+---
+
+## 🚀 Cara Install & Jalankan
+
+### 1. Clone Repository
 
 ```bash
-cd frontend
+git clone https://github.com/ArfHbb/SecureFrontend.git
+cd SecureFrontend
+```
+
+### 2. Install Dependencies
+
+```bash
 npm install
 ```
 
-### **Jalankan dalam Mode Development**
+### 3. Jalankan Development Server
 
 ```bash
 npm run dev
 ```
 
-Akses aplikasi di: `http://localhost:5173`
+Akses aplikasi di: [http://localhost:5173](http://localhost:5173)
 
-### **Build untuk Production (tidak digunakan di workshop)**
+### 4. Build untuk Production
 
 ```bash
 npm run build
@@ -37,13 +68,21 @@ npm run build
 
 ---
 
-## **3. Catatan**
+## 🛡️ Catatan Workshop
 
-* Aplikasi ini dibuat **hanya untuk tujuan pembelajaran** dan **tidak boleh** digunakan di lingkungan produksi.
-* Dalam workshop, peserta akan **menganalisis, menemukan, dan memperbaiki kelemahan** yang ada pada aplikasi ini.
+- Aplikasi ini dibuat **hanya untuk tujuan pembelajaran** dan **tidak boleh** digunakan di lingkungan produksi.
+- Dalam workshop, peserta akan **menganalisis, menemukan, dan memperbaiki kelemahan** yang ada pada aplikasi ini.
 
 ---
 
-## **4. Lisensi**
+## 📸 Demo
+
+<p align="center">
+  <img src="https://i.imgur.com/2QwQwQw.png" alt="Demo Screenshot" width="600" />
+</p>
+
+---
+
+## 📄 Lisensi
 
 Hak cipta © 2025 — Digunakan hanya untuk kepentingan workshop internal.
