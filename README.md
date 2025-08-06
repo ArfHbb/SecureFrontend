@@ -89,9 +89,6 @@ npm run build
 
 ## 📸 Demo & Dokumentasi Pelatihan
 
-<p align="center">
-  <img src="https://i.imgur.com/2QwQwQw.png" alt="Demo Screenshot" width="600" />
-</p>
 
 <p align="center">
   <img src="files/photo_2025-08-06_10-21-39.jpg" alt="Foto Pelatihan Secure Coding" width="600" />
