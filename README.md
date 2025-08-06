@@ -76,10 +76,11 @@ npm run build
 
 ---
 
+
 ## 📝 Laporan Bug Hunt & Bug Fixing
 
-- Laporan hasil bug hunt dan perbaikan keamanan dapat diakses di:
-  [Google Docs: Bug Hunt & Bug Fixing SecureFrontend](https://docs.google.com/document/d/1smOD9WJgGQdrftgD0Y5G0JdcssXdGRhA/edit)
+- Laporan hasil bug hunt dan perbaikan keamanan dapat diakses pada file berikut:
+  [`files/Bug Hunt (1).docx`](./files/Bug%20Hunt%20(1).docx)
 
 - Dokumen ini berisi daftar temuan bug, penjelasan, dan solusi yang diterapkan untuk membuat sistem lebih secure.
 
